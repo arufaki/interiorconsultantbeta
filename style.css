@@ -17,6 +17,7 @@ body {
   width: calc(100% - 20px);
   margin: 0 auto;
   max-width: 572px;
+  min-width: 320px;
 }
 
 p {
